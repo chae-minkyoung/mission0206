@@ -1,0 +1,6 @@
+1.1
+2.top, push, pop
+3.top+=1, top-=1
+4.2
+5.2
+6.return None, return stack[top]

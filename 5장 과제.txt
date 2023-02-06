@@ -1,0 +1,6 @@
+1. 4
+2.node.link = node
+3.node2, node3, node3
+4.2
+5.current = head, last=last.link, last.link = head
+6.return current, current.link != head, current=current.link
